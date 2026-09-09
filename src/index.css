@@ -2391,6 +2391,11 @@ p {
   font-size: 16px;
 }
 
+.contact-card-icon-mail {
+  width: 18px;
+  height: 18px;
+}
+
 .contact-card-value {
   display: block;
   margin-top: auto;
