@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+  <rect width="800" height="1000" fill="#F7F2E9"/>
+  <rect x="560" y="0" width="240" height="1000" fill="#E35D34"/>
+  <circle cx="270" cy="350" r="216" fill="#F1C94E"/>
+  <circle cx="270" cy="350" r="132" fill="none" stroke="#7A3E26" stroke-width="3"/>
+  <path d="M250 292 Q270 256 290 292 L282 330 Q270 352 258 330 Z" fill="#3E7A4E"/>
+  <path d="M216 400 Q270 348 324 400 Z" fill="#3E7A4E"/>
+  <path d="M270 438 Q250 478 270 518 Q290 478 270 438" fill="#7A3E26"/>
+  <text x="122" y="690" font-family="'Noto Serif SC','Songti SC',serif" font-size="154" fill="#2F2A22">旬味</text>
+  <text x="126" y="742" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="19" letter-spacing="10" fill="#7A3E26">SEASONAL TABLE</text>
+  <text x="126" y="776" font-family="'DM Mono',monospace" font-size="17" letter-spacing="3" fill="#7A3E26">PACKAGING SYSTEM 2024</text>
+  <text x="596" y="108" font-family="'Noto Serif SC','Songti SC',serif" font-size="34" fill="#F7F2E9">按季而食</text>
+  <text x="596" y="920" text-anchor="end" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="17" fill="#F7F2E9">食品包装 / 礼盒</text>
+  <text x="596" y="952" text-anchor="end" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="17" fill="#F7F2E9">N° 03</text>
+</svg>

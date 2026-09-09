@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+  <rect width="800" height="1000" fill="#0E0F11"/>
+  <rect x="34" y="34" width="732" height="932" fill="none" stroke="#3C3F45" stroke-width="2"/>
+  <circle cx="196" cy="810" r="94" fill="#57E6E6"/>
+  <circle cx="604" cy="192" r="120" fill="#FF3FA4"/>
+  <text x="400" y="92" text-anchor="middle" font-family="'DM Mono',monospace" font-size="20" letter-spacing="10" fill="#F4F2EA">ZERO ART FESTIVAL</text>
+  <text x="400" y="118" text-anchor="middle" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="14" letter-spacing="8" fill="#8B8D92">2023 · VISUAL IDENTITY</text>
+  <g transform="translate(400,520)">
+    <ellipse rx="238" ry="252" fill="none" stroke="#57E6E6" stroke-width="7"/>
+    <ellipse rx="238" ry="252" fill="none" stroke="#FF3FA4" stroke-width="7" transform="rotate(9)"/>
+  </g>
+  <text x="400" y="830" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif" font-size="120" fill="#F4F2EA">零度现场</text>
+  <text x="70" y="945" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="17" fill="#8B8D92">艺术节视觉识别 / 活动物料</text>
+  <text x="730" y="945" text-anchor="end" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="17" fill="#8B8D92">N° 06</text>
+</svg>

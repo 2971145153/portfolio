@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+  <rect width="800" height="1000" fill="#F5F3EE"/>
+  <rect x="0" y="0" width="330" height="1000" fill="#17314A"/>
+  <rect x="36" y="36" width="258" height="928" fill="none" stroke="#F5F3EE" stroke-width="2"/>
+  <circle cx="575" cy="290" r="176" fill="#E4572E"/>
+  <text x="420" y="560" font-family="'Noto Serif SC','Songti SC',serif" font-size="168" fill="#17314A">城市</text>
+  <text x="420" y="688" font-family="'Noto Serif SC','Songti SC',serif" font-size="128" fill="#17314A">漫游</text>
+  <line x1="420" y1="742" x2="740" y2="742" stroke="#17314A" stroke-width="3"/>
+  <text x="420" y="790" font-family="'DM Mono',monospace" font-size="20" letter-spacing="6" fill="#17314A">URBAN NOTES · N°04</text>
+  <text x="70" y="90" font-family="'DM Mono',monospace" font-size="18" fill="#F5F3EE">MAGAZINE</text>
+  <text x="70" y="120" font-family="'Noto Serif SC','Songti SC',serif" font-size="28" fill="#F5F3EE">独立画册 / 编辑设计</text>
+  <text x="165" y="470" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif" font-size="40" fill="#F5F3EE" transform="rotate(-90 165 470)">城市漫游手记</text>
+  <text x="70" y="930" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="18" fill="#F5F3EE">ISSUE N°04 · 2024</text>
+  <text x="740" y="952" text-anchor="end" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="17" fill="#17314A">N° 04</text>
+</svg>

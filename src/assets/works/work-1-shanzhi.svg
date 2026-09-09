@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+  <rect width="800" height="1000" fill="#F1E9DB"/>
+  <rect x="34" y="34" width="732" height="932" fill="none" stroke="#1C3A31" stroke-width="2"/>
+  <text x="70" y="92" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="20" letter-spacing="4" fill="#8A7A62">2025 · BRAND IDENTITY</text>
+  <text x="730" y="92" text-anchor="end" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="20" letter-spacing="4" fill="#8A7A62">品牌全案</text>
+  <circle cx="360" cy="400" r="228" fill="#1C3A31"/>
+  <circle cx="360" cy="400" r="154" fill="#F1E9DB"/>
+  <path d="M284 394 Q360 274 436 394 Z" fill="#D36B3B" opacity="0.9"/>
+  <path d="M300 394 Q360 316 420 394 Z" fill="#1C3A31"/>
+  <circle cx="360" cy="400" r="24" fill="#F1E9DB"/>
+  <text x="360" y="738" text-anchor="middle" font-family="'Noto Serif SC','Songti SC',serif" font-size="132" fill="#1C3A31">山止</text>
+  <text x="360" y="800" text-anchor="middle" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="19" letter-spacing="9" fill="#6E5D47">SHANZHI TEA · EST. 2025</text>
+  <line x1="70" y1="930" x2="730" y2="930" stroke="#1C3A31" stroke-width="2"/>
+  <text x="70" y="955" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="16" fill="#8A7A62">茶叶品牌视觉识别</text>
+  <text x="730" y="955" text-anchor="end" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="16" fill="#8A7A62">N° 01</text>
+</svg>

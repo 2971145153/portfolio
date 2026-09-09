@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+  <rect width="800" height="1000" fill="#E7D5B5"/>
+  <circle cx="276" cy="258" r="156" fill="#D95D39"/>
+  <path d="M0 690 L220 500 L380 638 L520 486 L800 760 L800 1000 L0 1000 Z" fill="#2E5C4E"/>
+  <path d="M0 820 L210 690 L380 812 L560 682 L800 872 L800 1000 L0 1000 Z" fill="#1F4438"/>
+  <g fill="none" stroke="#E7D5B5" stroke-width="2" opacity="0.7">
+    <line x1="70" y1="170" x2="500" y2="170"/>
+    <line x1="70" y1="206" x2="430" y2="206"/>
+  </g>
+  <text x="630" y="210" font-family="'Noto Serif SC','Songti SC',serif" font-size="54" fill="#1F4438" transform="rotate(90 630 210)">观 · 二十四节气</text>
+  <text x="70" y="80" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="19" letter-spacing="4" fill="#4A3B28">SOLAR TERMS · ILLUSTRATION</text>
+  <text x="80" y="880" font-family="'Noto Serif SC','Songti SC',serif" font-size="188" fill="#E7D5B5" opacity="0.9">廿四</text>
+  <text x="70" y="960" font-family="'DM Mono',monospace" font-size="17" letter-spacing="4" fill="#1F4438">GRAPHIC ILLUSTRATION SERIES 2023</text>
+  <text x="748" y="960" text-anchor="end" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="17" fill="#1F4438">N° 05</text>
+</svg>

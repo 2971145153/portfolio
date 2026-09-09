@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+  <rect width="800" height="1000" fill="#141414"/>
+  <g stroke="#D9FF3F" stroke-width="1" opacity="0.45">
+    <line x1="0" y1="96" x2="800" y2="96"/>
+    <line x1="0" y1="904" x2="800" y2="904"/>
+    <line x1="96" y1="0" x2="96" y2="1000"/>
+    <line x1="704" y1="0" x2="704" y2="1000"/>
+  </g>
+  <text x="52" y="70" font-family="'DM Mono',monospace" font-size="18" fill="#D9FF3F">SOUND WAVE FESTIVAL</text>
+  <text x="748" y="70" text-anchor="end" font-family="'DM Mono',monospace" font-size="18" fill="#D9FF3F">2025.08</text>
+  <g transform="translate(400,470)">
+    <circle r="392" fill="none" stroke="#D9FF3F" stroke-width="2"/>
+    <circle r="308" fill="none" stroke="#D9FF3F" stroke-width="2"/>
+    <circle r="224" fill="none" stroke="#D9FF3F" stroke-width="2"/>
+    <circle r="140" fill="#D9FF3F"/>
+    <circle r="140" fill="none" stroke="#141414" stroke-width="2"/>
+  </g>
+  <text x="400" y="850" text-anchor="middle" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="176" font-weight="700" fill="#D9FF3F">声浪</text>
+  <text x="400" y="905" text-anchor="middle" font-family="'DM Mono',monospace" font-size="20" letter-spacing="8" fill="#D9FF3F">SHENGLANG · POSTER SERIES</text>
+  <text x="52" y="945" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="17" fill="#8A8A8A">音乐节主视觉 / 海报</text>
+  <text x="748" y="945" text-anchor="end" font-family="'Noto Sans SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="17" fill="#8A8A8A">N° 02</text>
+</svg>
